@@ -3,4 +3,4 @@ a Windows/Console (Vector-based,Unicode addressed) True-Type(TTF) Font with full
 
 I'm currently using the US codepage 437 character mapping with some customization, this may change in the future.
 Think IBM OS-2/MS-DOS CP-437 or classic Atari game maps, where all 256 positions are used.
-In Unicode fonts, the actual keyboard character is linked to the glyph itself, which creates conflicts in the C0 and C1 control Regions, because they are already pre-provision in unicode mapping in multiple different areas depending on Western-Latin 1, etc., so if the keyboard characters are used in the C0/C1 areas they cant be used else where in the unicode map/font or visa versa (one time used keyboard char.).
+In Unicode fonts, the actual keyboard character is linked to the glyph itself, which creates conflicts in the C0 and C1 control Regions, because they are already pre-provision in unicode mapping in multiple different areas depending on Western-Latin 1, etc., so if the keyboard characters are used in the C0/C1 areas they can't be re-used elsewhere in the unicode map/font or visa versa (one time used keyboard char.).
