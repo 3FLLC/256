@@ -1,6 +1,6 @@
 # 256 -The one of a kind font
 ![GitHub Logo](https://github.com/dernyn/256/blob/master/256.png)
-an ISO 10646-1(Unicode,BMP) encoded(Vector-based,proper Unicode addressed) Windows True-Type Font(TTF)- with full Extended ASCII-8 Support where the old ASCII-7 Spectrum of 128 characters is max-out and Mapped further into the 256 character region, Utilizing Unicode C0 and C1 Controls provisional space instead of the Windows Bitmap-base fonts of windows 95/MS-DOS which makes this font unique and one of a kind. There are changes to be made to this charset because glyphs are mapped in other unicode provisional spaces or canonical reserved Unicode addresses/regions which may conflict on a future improved ASCII+Unicode combination or merged font. 
+an ISO 10646-1(Unicode,BMP) encoded -(Vector-based,proper Unicode addressed) Windows True-Type Font(TTF)- with full Extended ASCII-8 Support where the old ASCII-7 Spectrum of 128 characters is max-out and Mapped further into the 256 character region, Utilizing Unicode C0 and C1 Controls provisional space instead of the Windows Bitmap-base fonts of windows 95/MS-DOS which makes this font unique and one of a kind. There are changes to be made to this charset because glyphs are mapped in other unicode provisional spaces or canonical reserved Unicode addresses/regions which may conflict on a future improved ASCII+Unicode combination or merged font. 
 
 <H3><b>Dedicated Regions:</b></H3>
 C0 Controls Character U+0000-U+001F
