@@ -9,7 +9,7 @@ In Unicode fonts, the actual keyboard character is linked to the glyph itself, w
 There are some customizations on some character 0x00 for 0x32 which makes the space character now a viewable character and 0x255 is my own creation.
 
 
-<b>The difference:</b>
+<H3><b>The difference:</b></H3>
 This is the original bitmapped windows version of the US codepage 437 without the unicode mappings, as you can see it's very limited,and it's non-unicode and non-truetype.
 
 ![GitHub cp437](https://github.com/dernyn/256/blob/master/cp437.png)
