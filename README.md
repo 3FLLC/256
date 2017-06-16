@@ -5,7 +5,9 @@ a Custom encoded(Vector-based,Unicode addressed) Windows True-Type Font(TTF)- wi
 <H3><b>Dedicated Regions:</b></H3>
 C0 Controls Character U+0000-U+001F
 <br>
+</br>
 C1 Controls Character U+0080-U+009F
+<br>
 </br>
 I'm currently using the US codepage 437 character mapping standard with some customizations, which may change in the near future.
 So, Think IBM OS-2/MS-DOS CP-437 or classic Atari game maps, where all 256 positions of the 8 bits are used.
