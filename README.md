@@ -1,6 +1,8 @@
 # 256 -The one of a kind font
+This Font is a tribute to the IBM PC 5150 character set and TypeFace used in the U.S. region by IBM called CP437 with some modifications and adapted to be used with any version of the MS Windows Operating System and Linux(using OTF) by Utilizing Unicode Mappings most similar fonts ignore.
+<br>
 ![GitHub Logo](https://github.com/dernyn/256/blob/master/256.png)
-an ISO 10646-1(Unicode,BMP) encoded -(Vector-based,proper Unicode addressed) Windows True-Type Font(TTF)- with full Extended ASCII-8 Support(ISO/IEC 8859) where the old ASCII-7 Spectrum of 128 characters is max-out and Mapped further into the 256 character region, Utilizing Unicode C0 and C1 Controls provisional space instead of the Windows Bitmap-base fonts of windows 95/MS-DOS which makes this font unique and one of a kind. There are changes to be made to this charset because glyphs are mapped in other unicode provisional spaces or canonical reserved Unicode addresses/regions which may conflict on a future improved ASCII+Unicode combination or merged font. 
+It is an ISO 10646-1(Unicode,BMP) encoded -(Vector-based,proper Unicode addressed) Windows True-Type Font(TTF)- with full Extended ASCII-8 Support(ISO/IEC 8859) where the old ASCII-7 Spectrum of 128 characters is max-out and Mapped further into the 256 character region, Utilizing Unicode C0 and C1 Controls provisional space instead of the Windows Bitmap-base fonts of windows 95/MS-DOS which makes this font unique and one of a kind. There are changes to be made to this charset because glyphs are mapped in other unicode provisional spaces or canonical reserved Unicode addresses/regions which may conflict on a future improved ASCII+Unicode combination or merged font. 
 
 <H3><b>Dedicated Regions:</b></H3>
 C0 Controls Character U+0000-U+001F
