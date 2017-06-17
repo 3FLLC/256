@@ -12,7 +12,7 @@ C1 Controls Character U+0080-U+009F
 <br>
 </br>
 I'm currently using the US codepage 437 character Style & Sequence of the standard with some customizations, which may change in the near future.
-So, Think IBM OS-2/MS-DOS CP-437(DOS Code Pages) or classic Atari game maps, where all 256 positions of the 8 bits are used, like the ISO 8859-1 standard.
+So, Think IBM OS-2/MS-DOS/PC-DOS CP-437(DOS Code Pages) or the idea of the classic Atari game maps made of 256 characters, where all 256 positions of the 8 bits are used, like the ISO 8859-1 standard.
 In Unicode fonts, the actual keyboard character is linked to the glyph itself, which creates conflicts in the C0 and C1 Controls Regions, because they are already pre-provision elsewhere in unicode mapping in multiple different areas depending on standard such as; Western-Latin 1, etc., so if the unique keyboard character itself is used in the C0/C1 Controls areas they can't be re-used elsewhere in the unicode map or in the font file itself.(basically one keyboard char per glyph)
 
 There are some customizations on some character 0x00 for 0x32 which makes the space character now a viewable character and 0x255 is my own creation.
